@@ -8,7 +8,7 @@
 <a href="https://www.tibco.com/reference-center/what-is-text-analytics" rel="nofollow"><img alt="Text%20Analytics" src="https://img.shields.io/badge/-Text%20Analytics-f5841f?style=for-the-badge" data-canonical-src="https://img.shields.io/badge/-Text%20Analytics-f5841f?style=for-the-badge" style="max-width: 100%;"/></a>  <a href="https://plotly.com/python/" rel="nofollow"><img alt="Plot-ly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" data-canonical-src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" style="max-width: 100%;"/></a>
 
 
-## Sentiment analysis is that the process of detecting positive, negative or neutral sentiment in reviews. It’s often employed by businesses to detect sentiment in social data, gauge brand reputation, and understand customers
+### Sentiment analysis is that the process of detecting positive, negative or neutral sentiment in reviews. It’s often employed by businesses to detect sentiment in social data, gauge brand reputation, and understand customers
 
 
 
