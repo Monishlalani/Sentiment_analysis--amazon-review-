@@ -35,7 +35,7 @@
 
 ![output](https://user-images.githubusercontent.com/84577478/222552508-bd52ca90-1d03-4b68-932d-2f524ecd9dc5.png )
 
-## Author
+## Autho
 
 Monish Lalani
 
